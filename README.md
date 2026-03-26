@@ -4,6 +4,8 @@ Cyprus Ride - Sharing Car Community App
 
 CypRide — Smart Ride-Sharing for Cyprus 🇨🇾 — is a privacy-focused, open-source ride-sharing application built exclusively for Cyprus with Flutter. Designed to fill the mobility gap in a market where major international ride-hailing services don't operate, CypRide empowers Cypriots to share journeys safely, affordably, and locally.
 
+🚗 Core Functionalities
+
 Dual-Role Ride Marketplace
 - Riders: Offer available seats in your vehicle for specific routes and times
 - Guests: Find and join rides matching your destination and schedule
@@ -33,3 +35,18 @@ Technical Foundation
 - GoRouter for type-safe navigation
 - Hive for local favorites storage (no cloud dependency)
 - Modular architecture for easy maintenance and contribution
+---------------------------------------
+
+✨ Key Advantages for Users
+
+✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
+✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
+✅ Cost-Effective — Share fuel costs rather than paying corporate commissions
+✅ Community Trust — Rate system and verified profiles foster safer connections
+✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
+✅ Lightweight — Minimal permissions requested; works efficiently on older devices
+---------------------------------------
+
+🌍 Why Cyprus Needs CypRide
+
+Cyprus remains one of the few EU countries without Uber or similar global ride-hailing services. CypRide fills this gap with a solution that respects European privacy standards while serving the unique mobility patterns of Cypriot cities and villages — from Nicosia to Limassol, Larnaca to Paphos.
