@@ -63,3 +63,6 @@ While carpooling services like BlaBlaCar and Karos operate internationally, Cypr
 - Location privacy is respected as a right, not a product feature
 
 This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique geography, with technology that serves people, not shareholders.
+
+<img width="1344" height="768" alt="17715808985baa_white" src="https://github.com/user-attachments/assets/ae1b9dfc-6605-4af7-8868-c4c47cdd0309" />
+
