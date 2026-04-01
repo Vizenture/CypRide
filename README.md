@@ -34,7 +34,7 @@ Technical Foundation
 - Hive for local favorites storage (no cloud dependency)
 - Modular architecture for easy maintenance and contribution
 
-##✨ **Key Advantages for Users**
+## ✨ **Key Advantages for Users**
 
 - ✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
 - ✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
@@ -42,8 +42,8 @@ Technical Foundation
 - ✅ Community Trust — Rate system and verified profiles foster safer connections
 - ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
 - ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
-#
-🌍 **Why Cyprus Needs CypRide**
+
+## 🌍 **Why Cyprus Needs CypRide**
 
 While carpooling services like BlaBlaCar and Karos operate internationally, Cyprus has no dedicated, locally-optimized platform for community-based ride sharing. CypRide fills this gap with a zero-commission, open-source solution built specifically for Cypriot routes — connecting people across the island from Nicosia to Limassol, Larnaca to Paphos.
 
