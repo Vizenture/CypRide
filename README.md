@@ -33,7 +33,6 @@ Technical Foundation
 - GoRouter for type-safe navigation
 - Hive for local favorites storage (no cloud dependency)
 - Modular architecture for easy maintenance and contribution
----------------------------------------
 #
 ✨ **Key Advantages for Users**
 
