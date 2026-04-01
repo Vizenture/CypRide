@@ -47,9 +47,7 @@ Technical Foundation
 ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
 
 ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
-
----------------------------------------
-
+#
 🌍 **Why Cyprus Needs CypRide**
 
 While carpooling services like BlaBlaCar and Karos operate internationally, Cyprus has no dedicated, locally-optimized platform for community-based ride sharing. CypRide fills this gap with a zero-commission, open-source solution built specifically for Cypriot routes — connecting people across the island from Nicosia to Limassol, Larnaca to Paphos.
